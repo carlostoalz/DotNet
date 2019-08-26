@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html ng-app="App.Daserva.Login">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../../lib/angular/dist/css/angular-notify-flat.css" rel="stylesheet" />
+    <link href="../../lib/bootstrap/dist/css/bootstrap-grid.css" rel="stylesheet" />
+    <link href="../../lib/bootstrap/dist/css/bootstrap-reboot.css" rel="stylesheet" />
+    <link href="../../lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../../css/site.css" rel="stylesheet" />
+    <link href="../../lib/sweetAlert/sweetalert2.min.css" rel="stylesheet" />
+    <script src="../../lib/sweetAlert/sweetalert2.all.min.js"></script>
+</head>
+<body id="page-top" class="pt-5">
+    <div class="container m-5">
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top text-uppercase container">
+            <a href="/"><img src="../../images/logoDASERVA.png" alt="" width="150" height="75" /></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <button class="nav-link font-weight-bolder btn btn-light mr-1" data-toggle="modal" data-target="#registroModal">Registrarse</button>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="body-content" ng-view>
+    </div>
+
+    <div ng-include="'Modals/Registro.html'"></div>
+
+    <script src="../../js/general.js"></script>
+    <script src="../../lib/jquery/dist/jquery.js"></script>
+    <script src="../../lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="../../lib/angular/dist/js/angular.js"></script>
+    <script src="../../lib/angular/dist/js/angular-route.js"></script>
+    <script src="../../lib/angular/dist/js/angular-notify.js"></script>
+    <script src="../../js/Directives/directives.js"></script>
+    <script src="../../js/Modules/app.js"></script>
+    <script src="../../js/common.js"></script>
+    <script src="../../js/Services/LoginService.js"></script>
+    <script src="../../js/Controllers/LoginController.js"></script>
+</body>
+</html>

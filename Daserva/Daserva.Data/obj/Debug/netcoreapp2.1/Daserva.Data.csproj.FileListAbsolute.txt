@@ -1,0 +1,14 @@
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp2.1\Daserva.Data.deps.json
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp2.1\Daserva.Data.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp2.1\Daserva.Data.csprojAssemblyReference.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp2.1\Daserva.Data.csproj.CoreCompileInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp2.1\Daserva.Data.AssemblyInfoInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp2.1\Daserva.Data.AssemblyInfo.cs
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp2.1\Daserva.Data.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp2.1\Daserva.Data.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp2.1\Daserva.Data.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp2.1\Daserva.Common.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp2.1\Daserva.Common.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp2.1\Daserva.Data.csproj.CopyComplete
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp2.1\Daserva.Data.runtimeconfig.json
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp2.1\Daserva.Data.runtimeconfig.dev.json

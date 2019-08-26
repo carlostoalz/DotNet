@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.LinQ" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Daserva.Common\Daserva.Common.csproj" />
+    <ProjectReference Include="..\Daserva.Data\Daserva.Data.csproj" />
+  </ItemGroup>
+
+</Project>

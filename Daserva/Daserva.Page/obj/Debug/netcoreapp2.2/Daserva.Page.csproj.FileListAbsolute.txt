@@ -1,0 +1,14 @@
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\bin\Debug\netcoreapp2.2\Daserva.Page.deps.json
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\bin\Debug\netcoreapp2.2\Daserva.Page.runtimeconfig.json
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\bin\Debug\netcoreapp2.2\Daserva.Page.runtimeconfig.dev.json
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\bin\Debug\netcoreapp2.2\Daserva.Page.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\bin\Debug\netcoreapp2.2\Daserva.Page.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.csprojAssemblyReference.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.csproj.CoreCompileInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.RazorAssemblyInfo.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.RazorAssemblyInfo.cs
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.AssemblyInfoInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.AssemblyInfo.cs
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.RazorTargetAssemblyInfo.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Page\obj\Debug\netcoreapp2.2\Daserva.Page.pdb

@@ -1,0 +1,104 @@
+﻿<div ng-controller="registroController" id="registroModal" class="modal fade bd" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Registrarse en DASERVA</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formValidate" ng-submit="GuardarRegistro()">
+                    <div class="row">
+                        <div class="col-8">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="form-group col-4">
+                                            <select id="ddlTipoDocumento" ng-model="registro.Cliente.strCodigoTipoDocumento" class="form-control" placeholder="Tipo Documento" required autofocus>
+                                                <option value="">--Tipo Documento--</option>
+                                                <option value="CI">Cédula de Identidad</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-label-group col-8">
+                                            <input type="text" id="txtNumero" ng-model="registro.Cliente.strNumeroDocumento" class="form-control" placeholder="Número / RUN" number required>
+                                            <label for="txtNumero">Número / RUN</label>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-label-group col-6">
+                                            <input type="text" id="txtNombre" ng-model="registro.Cliente.strNombre" class="form-control" placeholder="Nombres" letter required>
+                                            <label for="txtNombre">Nombre</label>
+                                        </div>
+                                        <div class="form-label-group col-6">
+                                            <input type="text" id="txtApellido" ng-model="registro.Cliente.strApellidos" class="form-control" placeholder="Apellidos" letter required>
+                                            <label for="txtApellido">Apellidos</label>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-label-group col-6">
+                                            <input type="text" id="txtDireccion" ng-model="registro.Cliente.strDireccion" class="form-control" placeholder="Dirección" required>
+                                            <label for="txtDireccion">Dirección</label>
+                                        </div>
+                                        <div class="form-group col-6">
+                                            <select id="ddlComuna" ng-model="registro.Cliente.strComuna" class="form-control" placeholder="Comuna" required>
+                                                <option value="">--Comuna--</option>
+                                                <option ng-repeat="option in comunas" value="{{option.label}}">{{option.label}}</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-label-group col-4">
+                                            <input type="tel" id="txtMovil" ng-model="registro.Cliente.strTelMovil" class="form-control" placeholder="Tel. Movil" required>
+                                            <label for="txtMovil">Tel. Movil</label>
+                                        </div>
+                                        <div class="form-label-group col-4">
+                                            <input type="tel" id="txtParticular" ng-model="registro.Cliente.strTelParticular" class="form-control" placeholder="Tel. Particular">
+                                            <label for="txtMovil">Tel. Particular</label>
+                                        </div>
+                                        <div class="form-label-group col-4">
+                                            <input type="tel" id="txtTrabajo" ng-model="registro.Cliente.strTelTrabajo" class="form-control" placeholder="Tel. Trabajo">
+                                            <label for="txtMovil">Tel. Trabajo</label>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-label-group col-6">
+                                            <input type="email" id="txtEmail" ng-model="registro.Cliente.strEmail" class="form-control" placeholder="Email" required>
+                                            <label for="txtEmail">Email</label>
+                                        </div>
+                                        <div class="form-label-group col-6">
+                                            <input type="date" id="txtFechaNacimiento" ng-model="registro.Cliente.dtmFechaNacimiento" class="form-control" placeholder="Fecha Nacimiento" required>
+                                            <label for="txtFechaNacimiento">Fecha Nacimiento</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="form-label-group">
+                                        <input type="text" id="txtUsuario" ng-model="registro.Usuario.strUsuario" class="form-control" placeholder="Usuario" required>
+                                        <label for="txtUsuario">Usuario</label>
+                                    </div>
+
+                                    <div class="form-label-group">
+                                        <input type="password" id="txtContrasenia" ng-model="registro.Usuario.strPassword" class="form-control" placeholder="Contraseña" required>
+                                        <label for="txtContrasenia">Contraseña</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col text-center">
+                                <button class="btn btn-success mt-3" type="submit">Guardar</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

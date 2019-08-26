@@ -1,0 +1,14 @@
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp2.1\Daserva.Business.deps.json
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp2.1\Daserva.Business.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp2.1\Daserva.Business.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp2.1\Daserva.Common.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp2.1\Daserva.Data.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp2.1\Daserva.Common.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp2.1\Daserva.Data.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp2.1\Daserva.Business.csprojAssemblyReference.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp2.1\Daserva.Business.csproj.CoreCompileInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp2.1\Daserva.Business.AssemblyInfoInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp2.1\Daserva.Business.AssemblyInfo.cs
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp2.1\Daserva.Business.csproj.CopyComplete
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp2.1\Daserva.Business.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp2.1\Daserva.Business.pdb

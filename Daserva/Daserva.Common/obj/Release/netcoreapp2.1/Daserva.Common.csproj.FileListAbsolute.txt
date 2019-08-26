@@ -1,0 +1,9 @@
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Release\netcoreapp2.1\Daserva.Common.deps.json
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Release\netcoreapp2.1\Daserva.Common.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Release\netcoreapp2.1\Daserva.Common.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Release\netcoreapp2.1\Daserva.Common.csprojAssemblyReference.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Release\netcoreapp2.1\Daserva.Common.csproj.CoreCompileInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Release\netcoreapp2.1\Daserva.Common.AssemblyInfoInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Release\netcoreapp2.1\Daserva.Common.AssemblyInfo.cs
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Release\netcoreapp2.1\Daserva.Common.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Release\netcoreapp2.1\Daserva.Common.pdb

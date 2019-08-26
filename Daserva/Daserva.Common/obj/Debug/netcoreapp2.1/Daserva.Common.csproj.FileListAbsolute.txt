@@ -1,0 +1,14 @@
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Debug\netcoreapp2.1\Daserva.Common.deps.json
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Debug\netcoreapp2.1\Daserva.Common.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Debug\netcoreapp2.1\Daserva.Common.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Debug\netcoreapp2.1\Daserva.Common.csprojAssemblyReference.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Debug\netcoreapp2.1\Daserva.Common.csproj.CoreCompileInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Debug\netcoreapp2.1\Daserva.Common.AssemblyInfoInputs.cache
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Debug\netcoreapp2.1\Daserva.Common.AssemblyInfo.cs
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Debug\netcoreapp2.1\Daserva.Common.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Debug\netcoreapp2.1\Daserva.Common.pdb
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\obj\Debug\netcoreapp2.1\Daserva.Common.csproj.CopyComplete
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.dll
+F:\Desarrollo Software\DotNet\Daserva\Daserva.Common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.xml

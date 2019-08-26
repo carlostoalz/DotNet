@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{52545909-052C-4D29-B64C-326AA10229E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{A6A35222-EBA1-4A70-9231-D35563302487}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daserva.Common", "Daserva.Common\Daserva.Common.csproj", "{DC1A530D-8025-4171-82AC-04BD2C0ACBCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{7887D669-D720-4DAC-B729-A4144870979F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daserva.Data", "Daserva.Data\Daserva.Data.csproj", "{301B09CB-9A85-4763-A8F1-B9C652AC51ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{E05DFE29-CE96-4076-9B0F-D4AF0D4D73B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daserva.Business", "Daserva.Business\Daserva.Business.csproj", "{3D8A46DB-FC35-4A1A-9465-E40D54215932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daserva.API", "Daserva.API\Daserva.API.csproj", "{B358D842-5088-4A15-9E5F-ED750853A725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1A530D-8025-4171-82AC-04BD2C0ACBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1A530D-8025-4171-82AC-04BD2C0ACBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1A530D-8025-4171-82AC-04BD2C0ACBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1A530D-8025-4171-82AC-04BD2C0ACBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301B09CB-9A85-4763-A8F1-B9C652AC51ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301B09CB-9A85-4763-A8F1-B9C652AC51ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301B09CB-9A85-4763-A8F1-B9C652AC51ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301B09CB-9A85-4763-A8F1-B9C652AC51ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8A46DB-FC35-4A1A-9465-E40D54215932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8A46DB-FC35-4A1A-9465-E40D54215932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8A46DB-FC35-4A1A-9465-E40D54215932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8A46DB-FC35-4A1A-9465-E40D54215932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B358D842-5088-4A15-9E5F-ED750853A725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B358D842-5088-4A15-9E5F-ED750853A725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B358D842-5088-4A15-9E5F-ED750853A725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B358D842-5088-4A15-9E5F-ED750853A725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DC1A530D-8025-4171-82AC-04BD2C0ACBCA} = {A6A35222-EBA1-4A70-9231-D35563302487}
+		{301B09CB-9A85-4763-A8F1-B9C652AC51ED} = {7887D669-D720-4DAC-B729-A4144870979F}
+		{3D8A46DB-FC35-4A1A-9465-E40D54215932} = {E05DFE29-CE96-4076-9B0F-D4AF0D4D73B6}
+		{B358D842-5088-4A15-9E5F-ED750853A725} = {52545909-052C-4D29-B64C-326AA10229E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BFE6D49-BF14-4555-87E3-D144CA12F2F8}
+	EndGlobalSection
+EndGlobal
