@@ -1,0 +1,8 @@
+D:\Desarrollo Software\DotNet\PruebaOneLink\BE\bin\Debug\netcoreapp3.1\BE.deps.json
+D:\Desarrollo Software\DotNet\PruebaOneLink\BE\bin\Debug\netcoreapp3.1\BE.dll
+D:\Desarrollo Software\DotNet\PruebaOneLink\BE\obj\Debug\netcoreapp3.1\BE.AssemblyInfoInputs.cache
+D:\Desarrollo Software\DotNet\PruebaOneLink\BE\obj\Debug\netcoreapp3.1\BE.AssemblyInfo.cs
+D:\Desarrollo Software\DotNet\PruebaOneLink\BE\bin\Debug\netcoreapp3.1\BE.pdb
+D:\Desarrollo Software\DotNet\PruebaOneLink\BE\obj\Debug\netcoreapp3.1\BE.dll
+D:\Desarrollo Software\DotNet\PruebaOneLink\BE\obj\Debug\netcoreapp3.1\BE.pdb
+D:\Desarrollo Software\DotNet\PruebaOneLink\BE\obj\Debug\netcoreapp3.1\BE.csprojAssemblyReference.cache

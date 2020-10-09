@@ -1,7 +1,7 @@
-﻿namespace Daserva.Common
-{
-    using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 
+namespace Daserva.Common
+{    
     public class ApplicationUser : IdentityUser
     {
     }

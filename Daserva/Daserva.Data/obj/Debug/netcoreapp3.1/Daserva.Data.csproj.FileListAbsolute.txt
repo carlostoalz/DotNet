@@ -1,0 +1,13 @@
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp3.1\Daserva.Data.deps.json
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp3.1\Daserva.Data.dll
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp3.1\Daserva.Common.dll
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp3.1\Daserva.Common.pdb
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp3.1\Daserva.Data.csprojAssemblyReference.cache
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp3.1\Daserva.Data.AssemblyInfoInputs.cache
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp3.1\Daserva.Data.AssemblyInfo.cs
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp3.1\Daserva.Data.csproj.CopyComplete
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp3.1\Daserva.Data.runtimeconfig.json
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp3.1\Daserva.Data.runtimeconfig.dev.json
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\bin\Debug\netcoreapp3.1\Daserva.Data.pdb
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp3.1\Daserva.Data.dll
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Data\obj\Debug\netcoreapp3.1\Daserva.Data.pdb

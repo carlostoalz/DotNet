@@ -1,0 +1,13 @@
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp3.1\Daserva.Business.csprojAssemblyReference.cache
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp3.1\Daserva.Business.AssemblyInfoInputs.cache
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp3.1\Daserva.Business.AssemblyInfo.cs
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp3.1\Daserva.Business.deps.json
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp3.1\Daserva.Business.dll
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp3.1\Daserva.Business.pdb
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp3.1\Daserva.Common.dll
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp3.1\Daserva.Data.dll
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp3.1\Daserva.Common.pdb
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\bin\Debug\netcoreapp3.1\Daserva.Data.pdb
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp3.1\Daserva.Business.csproj.CopyComplete
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp3.1\Daserva.Business.dll
+D:\Desarrollo Software\DotNet\Daserva\Daserva.Business\obj\Debug\netcoreapp3.1\Daserva.Business.pdb

@@ -1,0 +1,52 @@
+<div class="fondo-negro animated fadeIn" [ngClass]="_mu.oculto">
+    <div class="modal" style="display: block;" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">{{ _mu.titulo }}</h5>
+                    <button (click)="cerrarModal()" type="button" class="close" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form class="form">
+                        <div class="form-group">
+                            <label for="tipodocumento">Tipo documento</label>
+                            <select [(ngModel)]="_mu.empleado.idTipoDocumento" name="tipodocumento" id="tipodocumento" class="form-control" required="true">
+                                <option [ngValue]="0">--Seleccione el tipo de documento--</option>
+                                <option *ngFor="let tipo of tiposDomumento" [ngValue]="tipo.idTipoDocumento">{{tipo.nombreTipoDocumento}}</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="numerodocumento">Número documento</label>
+                            <input type="text" [(ngModel)]="_mu.empleado.numeroDocumento" name="numerodocumento" id="numerodocumento" class="form-control" required="true">
+                        </div>
+                        <div class="form-group">
+                            <label for="nombres">Nombres</label>
+                            <input type="text" [(ngModel)]="_mu.empleado.nombres" name="nombres" id="nombres" class="form-control" required="true">
+                        </div>
+                        <div class="form-group">
+                            <label for="apellidos">Apellidos</label>
+                            <input type="text" [(ngModel)]="_mu.empleado.apellidos" name="apellidos" id="apellidos" class="form-control" required="true">
+                        </div>
+                        <div class="form-group">
+                            <label for="area">Area</label>
+                            <select [(ngModel)]="_mu.empleado.idArea" (change)="onChangeArea()" name="area" id="area" class="form-control" required="true">
+                                <option [ngValue]="0">--Seleccione el area--</option>
+                                <option *ngFor="let area of _mu.areas" [ngValue]="area.idArea">{{area.nombreArea}}</option>
+                            </select>
+                        </div>
+                        <div class="form-group" *ngIf="_mu.subareas.length > 0">
+                            <label for="subarea">Sub Area</label>
+                            <select [(ngModel)]="_mu.empleado.idSubArea" name="subarea" id="subarea" class="form-control" required="true">
+                                <option [ngValue]="0">--Seleccione la Sub Area--</option>
+                                <option *ngFor="let subarea of _mu.subareas" [ngValue]="subarea.idSubArea">{{subarea.nombreSubArea}}</option>
+                            </select>
+                        </div>
+                        <button type="button" class="btn btn-primary btn-block" (click)="onClickGuardar()">Guardar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

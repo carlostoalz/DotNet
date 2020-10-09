@@ -1,0 +1,13 @@
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\obj\Debug\netcoreapp3.1\Negocio.csprojAssemblyReference.cache
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\bin\Debug\netcoreapp3.1\BE.dll
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\bin\Debug\netcoreapp3.1\Datos.dll
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\bin\Debug\netcoreapp3.1\Datos.pdb
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\bin\Debug\netcoreapp3.1\BE.pdb
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+D:\Desarrollo Software\DotNet\PruebaOneLink\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

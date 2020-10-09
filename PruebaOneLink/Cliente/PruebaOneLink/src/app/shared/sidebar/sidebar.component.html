@@ -1,0 +1,22 @@
+<aside class="left-sidebar">
+    <div class="scroll-sidebar">
+        <nav class="sidebar-nav">
+            <ul id="sidebarnav">
+                <li *ngFor="let m of menu">
+                    <a class="has-arrow waves-effect waves-dark" aria-expanded="false">
+                        <i [class]="m.icono"></i>
+                        <span class="hide-menu">
+                            {{ m.titulo }}
+                            <span class="label label-rouded label-themecolor pull-right">{{ m.submenu.length }}</span>
+                        </span>
+                    </a>
+                    <ul aria-expanded="false">
+                        <li *ngFor="let submenu of m.submenu">
+                            <a routerLinkActive="active" [routerLink]="[submenu.url]">{{ submenu.titulo }}</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</aside>

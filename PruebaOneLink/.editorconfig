@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0065: Directiva using mal colocada
+csharp_using_directive_placement = inside_namespace:silent

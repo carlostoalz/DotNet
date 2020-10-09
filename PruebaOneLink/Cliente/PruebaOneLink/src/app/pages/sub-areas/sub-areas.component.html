@@ -1,0 +1,51 @@
+<div class="alert alert-warning" role="alert" *ngIf="areas.length == 0">
+    No hay areas para seleccionar por favor cree una area para poderle asinar una sub area
+</div>
+
+<div class="container-fluid form-group" *ngIf="areas.length > 0">
+    <select id="areas" class="form-control custom-select custom-select-sm" required="true" [(ngModel)]="idArea" (change)="onChangeAreas()">
+        <option value="">--Seleccione una area--</option>
+        <option *ngFor="let area of areas" [value]="area.idArea">{{area.nombreArea}}</option>
+    </select>
+</div>
+
+<div *ngIf="areas.length > 0">
+    <div class="container-fluid text-right">
+        <button (click)="crearSubArea()" type="button" class="btn waves-effect waves-light btn-rounded btn-primary">
+            <i class="fa fa-plus" aria-hidden="true"></i>
+            Crear Sub Area
+        </button>
+    </div>
+
+    <div class="alert alert-warning" role="alert" *ngIf="subAreas.length == 0">
+        No hay registros
+    </div>
+
+    <div class="container" *ngIf="subAreas.length > 0">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre Sub Area</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let subarea of subAreas">
+                    <td>{{subarea.idSubArea}}</td>
+                    <td>
+                        <input [(ngModel)]="subarea.nombreSubArea" type="text" name="nombre" required="true" class="form-control" />
+                    </td>
+                    <td>
+                        <button (click)="guardarSubArea(subarea)" type="button" class="btn btn-primary mr-1">
+                            <i class="fa fa-save"></i>
+                        </button>
+                        <button (click)="eliminarSubArea(subarea)" type="button" class="btn btn-danger">
+                            <i class="fa fa-trash-o"></i>
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

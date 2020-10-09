@@ -1,0 +1,38 @@
+<div class="container-fluid text-right">
+    <button (click)="crearTipoDocumento()" type="button" class="btn waves-effect waves-light btn-rounded btn-primary">
+        <i class="fa fa-plus" aria-hidden="true"></i>
+        Crear Tipo documento
+    </button>
+</div>
+
+<div class="alert alert-warning" role="alert" *ngIf="tiposDocumento.length == 0">
+    No hay registros
+</div>
+
+<div class="container" *ngIf="tiposDocumento.length > 0">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre Tipo Documento</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let tipo of tiposDocumento">
+                <td>{{tipo.idTipoDocumento}}</td>
+                <td>
+                    <input [(ngModel)]="tipo.nombreTipoDocumento" type="text" name="nombre" required="true" class="form-control" />
+                </td>
+                <td>
+                    <button (click)="guardarTipoDocumento(tipo)" type="button" class="btn btn-primary mr-1">
+                        <i class="fa fa-save"></i>
+                    </button>
+                    <button (click)="eliminarTipoDocumento(tipo)" type="button" class="btn btn-danger">
+                        <i class="fa fa-trash-o"></i>
+                    </button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,15 @@
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\ConvertImage.exe.config
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\ConvertImage.exe
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\ConvertImage.pdb
+C:\Despliegue\Demos\ConvertImage\ConvertImage\obj\Debug\ConvertImage.csprojAssemblyReference.cache
+C:\Despliegue\Demos\ConvertImage\ConvertImage\obj\Debug\ConvertImage.csproj.CoreCompileInputs.cache
+C:\Despliegue\Demos\ConvertImage\ConvertImage\obj\Debug\ConvertImage.exe
+C:\Despliegue\Demos\ConvertImage\ConvertImage\obj\Debug\ConvertImage.pdb
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\GroupDocs.Classification.Cloud.Sdk.dll
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\GroupDocs.Metadata.dll
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\Imazen.WebP.dll
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\Newtonsoft.Json.dll
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\GroupDocs.Metadata.xml
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\Imazen.WebP.xml
+C:\Despliegue\Demos\ConvertImage\ConvertImage\bin\Debug\Newtonsoft.Json.xml
+C:\Despliegue\Demos\ConvertImage\ConvertImage\obj\Debug\ConvertImage.csproj.CopyComplete

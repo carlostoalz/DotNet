@@ -1,12 +1,11 @@
 ﻿namespace Daserva.Data.Helpers
 {
+    using Microsoft.Data.SqlClient;
     using System;
     using System.Data;
-    using System.Data.SqlClient;
 
     public class ParameterHelper
     {
-
         public static SqlParameter NewParameter(string ParameterName, SqlDbType dbType, int Size, object value)
         {
             SqlParameter param = new SqlParameter

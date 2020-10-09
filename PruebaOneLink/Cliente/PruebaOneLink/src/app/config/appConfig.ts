@@ -1,0 +1,1 @@
+export const URL_SERVICIOS = "http://localhost:58468/api";
