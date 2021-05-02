@@ -1,0 +1,12 @@
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\bin\Debug\net5.0\BE.deps.json
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\bin\Debug\net5.0\BE.dll
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\bin\Debug\net5.0\ref\BE.dll
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\bin\Debug\net5.0\BE.pdb
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\obj\Debug\net5.0\BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\obj\Debug\net5.0\BE.AssemblyInfoInputs.cache
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\obj\Debug\net5.0\BE.AssemblyInfo.cs
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\obj\Debug\net5.0\BE.csproj.CoreCompileInputs.cache
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\obj\Debug\net5.0\BE.dll
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\obj\Debug\net5.0\ref\BE.dll
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\obj\Debug\net5.0\BE.pdb
+D:\DesarrolloSoftware\DotNet\PruebaMillionAndUp\BE\obj\Debug\net5.0\BE.csprojAssemblyReference.cache
