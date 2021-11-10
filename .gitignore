@@ -2,4 +2,27 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/MAU/.vs/MAU
+/MAU/.vs
+/MAU/MAU/bin
+/MAU/MAU/obj
+/TestNet6/MinimalAPI/BE/bin
+/TestNet6/MinimalAPI/BE/obj
+/TestNet6/MinimalAPI/Domain/bin
+/TestNet6/MinimalAPI/Domain/obj
+/TestNet6/MinimalAPI/Infraestructure/bin
+/TestNet6/MinimalAPI/Infraestructure/obj
+/TestNet6/MinimalAPI/WebApplication1/bin
+/TestNet6/MinimalAPI/WebApplication1/obj
+/TestNet6/MinimalAPI/.vs
+/PruebaMillionAndUp/PruebaMillionAndUp/.vs
+/PruebaMillionAndUp/PruebaMillionAndUp/obj
+/PruebaMillionAndUp/PruebaMillionAndUp/bin
+/PruebaMillionAndUp/BE/obj
+/PruebaMillionAndUp/BE/bin
+/PruebaMillionAndUp/Data/obj
+/PruebaMillionAndUp/Data/bin
+/PruebaMillionAndUp/Domain/obj
+/PruebaMillionAndUp/Domain/bin
+/PruebaMillionAndUp/TestProject/obj
+/PruebaMillionAndUp/TestProject/bin
+/PruebaMillionAndUp/TestProject/PruebaCarlosTobon.zip
