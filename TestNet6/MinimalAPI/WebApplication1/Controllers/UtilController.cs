@@ -7,7 +7,7 @@ namespace Controllers
     {
         public static void UtilRoutes(this WebApplication app)
         {
-            app.MapGet("api/Util/GetTimezones", async (IUtilBL bl) =>  Results.Extensions.ResultResponse(await bl.GetTimezones(), "Timezones Information", true));
+            app.MapGet("api/Util/GetTimezones", async (IUtilBL bl) =>  Results.Extensions.ResultResponse(await bl.GetTimezones()));
         }
     }
 }

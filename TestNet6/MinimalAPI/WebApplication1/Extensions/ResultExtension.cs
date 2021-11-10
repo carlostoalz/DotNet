@@ -7,7 +7,7 @@ namespace Presentacion.Extensions
 {
     internal static class ResultsExtensions
     {
-        public static IResult ResultResponse<T>(this IResultExtensions resultExtensions, T data, string returnMessage, bool isSuccess)
+        public static IResult ResultResponse<T>(this IResultExtensions resultExtensions, T data, string returnMessage = null, bool isSuccess = true)
         {
             ArgumentNullException.ThrowIfNull(resultExtensions, nameof(resultExtensions));
             return new Result<T>(data, returnMessage, isSuccess);
@@ -20,7 +20,7 @@ namespace Presentacion.Extensions
         public bool isSuccess { get; set; }
         public string returnMessage { get; set; }
 
-        public Result(T Data, string ReturnMessage, bool IsSuccess)
+        public Result(T Data, string ReturnMessage = null, bool IsSuccess = true)
         {
             this.data = Data;
             this.isSuccess = IsSuccess;
