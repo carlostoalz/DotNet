@@ -12,6 +12,7 @@
 /TestNet6/MinimalAPI/Infraestructure/bin
 /TestNet6/MinimalAPI/Infraestructure/obj
 /TestNet6/MinimalAPI/WebApplication1/appsettings.json
+/TestNet6/MinimalAPI/WebApplication1/appsettings.Development.json
 /TestNet6/MinimalAPI/WebApplication1/bin
 /TestNet6/MinimalAPI/WebApplication1/obj
 /TestNet6/MinimalAPI/.vs
