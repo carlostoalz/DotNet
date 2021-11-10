@@ -1,4 +1,5 @@
 ﻿using Domain;
+using Presentacion.Extensions;
 
 namespace Controllers
 {
@@ -6,7 +7,7 @@ namespace Controllers
     {
         public static void UtilRoutes(this WebApplication app)
         {
-            app.MapGet("api/Util/GetTimezones", async (IUtilBL bl) => await bl.GetTimezones());
+            app.MapGet("api/Util/GetTimezones", async (IUtilBL bl) =>  Results.Extensions.ResultResponse(await bl.GetTimezones(), "Timezones Information", true));
         }
     }
 }
